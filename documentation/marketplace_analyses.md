@@ -14,18 +14,14 @@
 3. [Target Audience & User Personas](#3-target-audience--user-personas)
 4. [Market Analysis](#4-market-analysis)
    - [4.1 TAM, SAM, SOM Analysis](#41-tam-sam-som-analysis)
-   - [4.2 PESTEL Analysis](#42-pestel-analysis)
 5. [SWOT Analysis](#5-swot-analysis)
 6. [Solution Overview](#6-solution-overview)
-7. [How It Works: Technical Architecture](#7-how-it-works-technical-architecture)
+7. [How It Works: Technical Architecture & MVP](#7-how-it-works-technical-architecture)
 8. [Why Stellar?](#8-why-stellar)
-9. [Product Features & MVP](#9-product-features--mvp)
-10. [Business Model & Monetization](#10-business-model--monetization)
-11. [Go-to-Market Strategy](#11-go-to-market-strategy)
-12. [Impact & KPIs](#12-impact--kpis)
-13. [Roadmap & Future Vision](#13-roadmap--future-vision)
-14. [Team & Roles](#14-team--roles)
-15. [Appendices & References](#15-appendices--references)
+9. [Business Model & Monetization](#9-business-model--monetization)
+10. [Roadmap & Future Vision](#10-roadmap--future-vision)
+11. [Team & Roles](#11-team--roles)
+12. [Appendices & References](#12-appendices--references)
 
 ---
 
@@ -83,6 +79,8 @@ The digital advertising supply chain involves numerous intermediaries—such as 
 
 These findings confirm that the problems Adescentralized seeks to address—high costs, lack of transparency, ad fraud, and excessive intermediary fees—are well-documented and deeply rooted in the current digital advertising landscape. By leveraging blockchain technology, smart contracts, and a user-reward model, Adescentralized offers a timely and validated solution to these pressing industry challenges.
 
+---
+
 
 ### Stakeholder Pain-Gain Map:
 
@@ -122,26 +120,69 @@ These findings confirm that the problems Adescentralized seeks to address—high
 
 ### 4.1 TAM, SAM, SOM Analysis
 
-| Metric | Definition | Estimate | Source |
-|-------|------------|--------|--------|
-| **TAM** (Total Addressable Market) | Global cross-border payment volume | $150B+/year | World Bank, 2023 |
-| **SAM** (Serviceable Available Market) | Digital remittances in emerging markets | $75B/year | Statista, McKinsey |
-| **SOM** (Serviceable Obtainable Market) | Realistic capture in Year 1 (e.g., 0.1%) | $75M | Internal estimate |
+Understanding the Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) is crucial for evaluating the potential of Adescentralized—a decentralized advertising platform that uses blockchain to ensure transparency, reduce fraud, and reward users and publishers fairly.
 
-> 💡 Use real data. Example: In 2023, global remittances reached $647B (World Bank). Focus on digital segment.
+#### Total Addressable Market (TAM)
 
----
+The **Total Addressable Market (TAM)** represents the total global revenue opportunity for digital advertising if Adescentralized could capture 100% of the market without constraints.
 
-### 4.2 PESTEL Analysis
+As of 2025, the global digital advertising market is projected to reach **$680 billion** [^topdraw]. This includes display ads, search engine marketing, social media advertising, video ads, and other online formats. Given that Adescentralized operates in the broader digital ad space—specifically targeting performance-based, transparent, and user-rewarded advertising—this figure serves as our TAM.
 
-| Factor | Impact on Project |
-|-------|------------------|
-| **Political** | Regulatory scrutiny of crypto; some countries restrict foreign remittance apps |
-| **Economic** | Inflation, currency instability increase need for stable digital assets |
-| **Social** | Growing mobile penetration in Africa, LATAM, SEA enables adoption |
-| **Technological** | Stellar’s Horizon API, SDKs, Soroban enable innovation |
-| **Environmental** | Near-zero carbon footprint of Stellar = ESG advantage |
-| **Legal** | KYC/AML compliance required for fiat on/off ramps |
+Furthermore, the lead generation market itself, which heavily relies on digital advertising, is expected to grow significantly. In the U.S. alone, spending specifically on *digital lead generation advertising* was $2.6 billion in 2019 and is projected to reach **$3.24 billion by 2023** [^inbeat][^99firms]. The broader lead generation industry is forecasted to reach **$295.1 billion by 2027** at a CAGR of 17% [^inbeat][^99firms].
+
+Since lead generation is a primary goal for marketers—and paid advertising is one of the main channels used to achieve it—this growing demand reinforces the size and relevance of the overall market.
+
+> **TAM = $680 billion (global digital advertising spend, 2025)**  
+> *Public: All businesses worldwide investing in digital advertising to generate leads.*
+
+#### Serviceable Available Market (SAM)
+
+The **Serviceable Available Market (SAM)** refers to the segment of the TAM that Adescentralized can realistically target given its current technology, business model, and go-to-market strategy.
+
+Adescentralized focuses on:
+- Decentralized, blockchain-powered ad delivery
+- Transparent, verifiable impressions via smart contracts
+- User monetization through micro-rewards (XLM/Stellar)
+- Direct payouts to publishers via automated settlements
+
+This positions the platform within two key niches:
+1. **Businesses using paid digital ads for lead generation**
+2. **Marketers seeking higher ROI and trust in their ad spend**
+
+From the data:
+- **53% of marketers spend over half their budget on lead generation** [^bookyourdata]
+- **72% of successful marketers use paid ad campaigns to generate leads** [^wisernotify][^bookyourdata]
+- The average small business spends between **$9,000 and $10,000 per month** on online ads [^bookyourdata]
+
+This indicates a large, active market of companies already committed to digital advertising but facing challenges with efficiency, fraud, and user engagement.
+
+A conservative estimate places the SAM as the portion of digital ad spend allocated by **mid-sized businesses and tech-forward brands** that prioritize transparency, performance tracking, and customer trust. These are organizations more likely to adopt innovative models like decentralized advertising.
+
+> **SAM = ~$100–$120 billion annually**  
+> *(Estimated spend by mid-market and growth-focused businesses on digital lead generation where trust, verification, and quality matter most)* [^inbeat][^99firms][^bookyourdata]  
+> *Public: Mid-sized businesses, Web3 startups, and performance-driven marketers actively investing in digital ads and lead gen, particularly in tech, SaaS, finance, and e-commerce sectors.*
+
+#### Serviceable Obtainable Market (SOM)
+
+The **Serviceable Obtainable Market (SOM)** is the realistic portion of the SAM that Adescentralized can capture in the short to medium term (e.g., 3–5 years), considering competition, adoption curves, and operational capacity.
+
+To calculate SOM, we consider:
+- **Early adopters**: Web3 companies, crypto projects, privacy-focused startups, and innovative marketing agencies.
+- **Users**: Internet users open to rewarded attention models (browser extension adopters).
+- **Publishers**: Independent websites and content creators seeking fairer revenue share.
+
+Given the nascent stage of blockchain-based advertising, capturing even **0.1% to 0.3% of the SAM ($100B–$120B)** would represent meaningful traction and validate the model.
+
+Therefore:
+> **SOM = $100 million to $360 million annually**  
+> *(Realistic 5-year revenue opportunity assuming gradual adoption among early-mover advertisers and strategic partnerships with Web3 communities and publisher networks)*
+
+This aligns with observable trends:
+- **83% of B2B marketers use social media** for lead generation, showing openness to digital-first strategies [^inbeat][^99firms].
+- **68% of B2B companies prioritize high-quality leads**, indicating demand for systems that verify real human engagement [^inbeat][^99firms].
+- With an average CPC of $1.35 on Facebook and rising CPMs on major platforms [^topdraw], there is a clear pain point around cost inefficiency—making Adescentralized’s low-fee, high-transparency model highly relevant.
+
+Adescentralized’s unique value proposition—transparency, reduced fraud, direct compensation, and user agency—positions it well to attract these forward-thinking advertisers once pilot programs demonstrate clear ROI.
 
 ---
 
@@ -215,25 +256,7 @@ Compliance Layer (KYC API, Chainalysis if needed)
 
 ---
 
-## 9. Product Features & MVP
-
-### MVP Features
-| Feature | Description | Status |
-|-------|-------------|--------|
-| Send XLM or USDC | Peer-to-peer transfer | ✅ Done |
-| Path Payments | Auto-convert USD → XLM → NGN | ✅ Done |
-| Transaction History | On-chain lookup via Horizon | ✅ Done |
-| Gasless Sponsorship | Sponsoring account covers fees | ⏳ In Progress |
-
-### Future Features
-- Biometric login
-- Receive money via phone number
-- Stablecoin salary payouts
-- Credit scoring based on history
-
----
-
-## 10. Business Model & Monetization
+## 9. Business Model & Monetization
 
 | Revenue Stream | Description | % of Revenue |
 |---------------|-------------|--------------|
@@ -241,39 +264,11 @@ Compliance Layer (KYC API, Chainalysis if needed)
 | Premium Features | Faster support, higher limits | 10% |
 | B2B API Access | Charge NGOs or employers using our rails | 20% |
 
-> *Keep fees below 1% to compete with Wise, far below Western Union (5–10%).*
+> *Keep fees below 1% to compete with Wise, far below Western Union (5–10%).
 
 ---
 
-## 11. Go-to-Market Strategy
-
-### Phase 1: Pilot (0–6 months)
-- Partner with remittance NGO in Kenya/Nigeria/Philippines
-- Onboard 1,000 beta users via WhatsApp community
-- Reward referrals with XLM airdrops
-
-### Phase 2: Scale (6–18 months)
-- Integrate with mobile money APIs (M-Pesa, GCash)
-- Launch affiliate program for local agents
-- Apply for Stellar Community Fund grant
-
----
-
-## 12. Impact & KPIs
-
-| KPI | Target (Year 1) |
-|-----|-----------------|
-| Users onboarded | 10,000 |
-| Avg. transaction cost | <$0.10 |
-| Avg. settlement time | <5 seconds |
-| CO₂ saved vs. traditional banks | 50+ tons |
-| % unbanked users served | 60% |
-
-> Use public ledger to prove transparency.
-
----
-
-## 13. Roadmap & Future Vision
+## 10. Roadmap & Future Vision
 
 | Quarter | Milestone |
 |--------|-----------|
@@ -288,7 +283,7 @@ Compliance Layer (KYC API, Chainalysis if needed)
 
 ---
 
-## 14. Team & Roles
+## 11. Team & Roles
 
 | Name | Role | Skills |
 |------|------|--------|
@@ -301,7 +296,7 @@ Compliance Layer (KYC API, Chainalysis if needed)
 
 ---
 
-## 15. Appendices & References
+## 12. Appendices & References
 
 ### A. Glossary
 - **XLM**: Stellar’s native token
@@ -524,3 +519,12 @@ https://www.adexchanger.com/data-driven-thinking/ad-tech-must-address-its-market
 ·
 (2020-05-20)
 Ad Tech Must Address Its Market Flaws
+
+
+**Section 4.1 references**
+
+[^topdraw]: TopDraw. Online Advertising Costs In 2025. Available from: https://www.topdraw.com/insights/is-online-advertising-expensive/
+[^inbeat]: Inbeat. 60+ Lead Generation Statistics You Can't Afford to Ignore. Available from: https://inbeat.agency/blog/lead-generation-statistics
+[^99firms]: 99firms. Lead Generation Statistics 2025. Available from: https://99firms.com/research/lead-generation-statistics/
+[^bookyourdata]: Book Your Data. 73 Lead Generation Statistics and Trends for Success in 2025. Available from: https://www.bookyourdata.com/blog/lead-generation-statistics
+[^wisernotify]: WiserNotify. 61 New Lead Generation Statistics (2025 Edition). Available from: https://wisernotify.com/blog/lead-generation-stats/
