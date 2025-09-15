@@ -32,11 +32,26 @@
 
 ## 1. Executive Summary & Introduction
 
-In one paragraph, summarize:
-- What your project does
-- Who it helps
-- Why it matters
-- How it uses Stellar
+<i>We are Adescentralized, an advertising distribution platform that uses blockchain to ensure transparent and fair payments for all parties involved. Our mission is to connect businesses with a genuine audience, ensuring that every view is verified and properly rewarded.<i>
+
+
+Adescentralized is a decentralized advertising platform that revolutionizes the way ads are distributed and rewarded. Our goal is to create a transparent and fair advertising ecosystem that benefits everyone involved: businesses, hosting websites, and most importantly, users.
+
+Our solution consists of three interconnected components, all powered by blockchain technology.
+
+Businesses use our website to easily and intuitively manage their advertising campaigns. A comprehensive dashboard allows them to set budgets and monitor performance in real time, with access to detailed metrics such as views, engagement, and lead generation. Every ad view and user interaction is securely recorded on the blockchain, complete with a verification hash and an encrypted user ID, ensuring complete data integrity.
+
+For end users, our browser extension serves as the gateway. Once activated, users can choose to view ads and, in return, are financially rewarded for each impression. We use XLM (Stellar Lumens) from the Stellar network to enable fast, secure transactions with minimal fees—delivering on our promise of real, tangible rewards for users’ attention.
+
+Additionally, partner websites integrate our solution to display ads and automatically receive a share of the advertiser’s investment through smart contracts. This ensures a fully automated payment process without intermediaries.
+
+Stellar forms the foundation of our platform. Its global payment infrastructure—capable of processing transactions in seconds at fractions of a cent—is the only network robust enough to support our large-scale, per-impression reward model.
+
+At every stage, we act as guardians of transparency. We manage the invested capital, validate ad views through our API, and ensure fair distribution of funds between users and publisher sites.
+
+Adescentralized proves that advertising can be decentralized, beneficial, and transparent—for everyone.
+
+
 
 > **Example**:  
 > *RemitSwift is a decentralized remittance platform built on the Stellar network that enables near-instant, low-cost cross-border payments for unbanked migrant workers. By leveraging Stellar’s fast settlement and low fees, we reduce transaction costs by up to 90% compared to traditional remittance services.*
@@ -302,7 +317,3 @@ Compliance Layer (KYC API, Chainalysis if needed)
 - **Postman** – API Testing
 
 ---
-
-> ✅ **Pro Tip**: Convert this to a Notion page or Google Doc for clickable TOC and team collaboration.
->
-> 🔥 **Next Step**: Tell me your idea, and I’ll fill this entire doc with real content, research, and Stellar-specific details!
