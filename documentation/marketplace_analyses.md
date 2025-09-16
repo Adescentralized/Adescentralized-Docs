@@ -81,17 +81,6 @@ These findings confirm that the problems Adescentralized seeks to address—high
 
 ---
 
-
-### Stakeholder Pain-Gain Map:
-
-| Stakeholder | Pain | Gain |
-|-----------|------|------|
-| Migrant Workers | Pay high fees to send money home | Fast, cheap, reliable way to support family |
-| Recipients (e.g., families) | Delayed funds, no tracking | Real-time visibility and instant access |
-| Small Remittance Providers | High operational costs | Lower overhead via decentralized rails |
-
----
-
 ## 3. Target Audience & User Personas
 
 ### Persona 1: Maria, Migrant Worker (Philippines → UAE)
@@ -124,81 +113,30 @@ Understanding the Total Addressable Market (TAM), Serviceable Available Market (
 
 #### Total Addressable Market (TAM)
 
-The **Total Addressable Market (TAM)** represents the total global revenue opportunity for digital advertising if Adescentralized could capture 100% of the market without constraints.
+**Total Addressable Market (TAM)**
 
-As of 2025, the global digital advertising market is projected to reach **$680 billion** [^topdraw]. This includes display ads, search engine marketing, social media advertising, video ads, and other online formats. Given that Adescentralized operates in the broader digital ad space—specifically targeting performance-based, transparent, and user-rewarded advertising—this figure serves as our TAM.
+The TAM represents the total global digital advertising market. It is the maximum revenue your company could generate if there were no competitors and all potential customers worldwide used your solution. Your proposal, as a comprehensive ad platform covering websites, users, and businesses, aligns with the total digital advertising market and part of the advertising technology (AdTech) market.
 
-Furthermore, the lead generation market itself, which heavily relies on digital advertising, is expected to grow significantly. In the U.S. alone, spending specifically on *digital lead generation advertising* was $2.6 billion in 2019 and is projected to reach **$3.24 billion by 2023** [^inbeat][^99firms]. The broader lead generation industry is forecasted to reach **$295.1 billion by 2027** at a CAGR of 17% [^inbeat][^99firms].
+By 2025, the global digital advertising spending market is projected to reach approximately $678.7 billion [^1]. Other sources estimate the AdTech market at $843.48 billion in 2025 [^2]. The growth projection for the digital advertising market is 9.47% between 2025 and 2034, demonstrating sustained expansion potential.
 
-Since lead generation is a primary goal for marketers—and paid advertising is one of the main channels used to achieve it—this growing demand reinforces the size and relevance of the overall market.
 
-> **TAM = $680 billion (global digital advertising spend, 2025)**  
-> *Public: All businesses worldwide investing in digital advertising to generate leads.*
+**Serviceable Available Market (SAM)**
 
-#### Serviceable Available Market (SAM)
+The SAM is the portion of the TAM that your company can realistically serve with its products and services, considering technology and market segmentation. Your proposal, Adescentralized, will not compete directly with market giants across all segments. Your focus on decentralization and blockchain-based micropayments for all parties involved directs your available market toward the niche of transparent and cost-effective advertising.
 
-The **Serviceable Available Market (SAM)** refers to the segment of the TAM that Adescentralized can realistically target given its current technology, business model, and go-to-market strategy.
+The programmable advertising market—which involves ads bought and sold automatically (similar to your proposal)—is a crucial part of your SAM, projected to reach $953.9 billion in 2025 [^3]. Additionally, your solution is ideal for small and medium enterprises (SMEs) seeking more transparent alternatives. The digital advertising market for SMEs is projected to generate up to $640 billion in 2025 [^4], demonstrating a significant opportunity.
 
-Adescentralized focuses on:
-- Decentralized, blockchain-powered ad delivery
-- Transparent, verifiable impressions via smart contracts
-- User monetization through micro-rewards (XLM/Stellar)
-- Direct payouts to publishers via automated settlements
 
-This positions the platform within two key niches:
-1. **Businesses using paid digital ads for lead generation**
-2. **Marketers seeking higher ROI and trust in their ad spend**
+**Serviceable Obtainable Market (SOM)**
 
-From the data:
-- **53% of marketers spend over half their budget on lead generation** [^bookyourdata]
-- **72% of successful marketers use paid ad campaigns to generate leads** [^wisernotify][^bookyourdata]
-- The average small business spends between **$9,000 and $10,000 per month** on online ads [^bookyourdata]
+The SOM is the portion of the SAM that your company can capture in the short term, considering your launch reality and competition. It represents your "obtainable" market. For Adescentralized, the SOM would be the business volume you can capture in the first year or next three years, depending on your market entry strategy.
 
-This indicates a large, active market of companies already committed to digital advertising but facing challenges with efficiency, fraud, and user engagement.
-
-A conservative estimate places the SAM as the portion of digital ad spend allocated by **mid-sized businesses and tech-forward brands** that prioritize transparency, performance tracking, and customer trust. These are organizations more likely to adopt innovative models like decentralized advertising.
-
-> **SAM = ~$100–$120 billion annually**  
-> *(Estimated spend by mid-market and growth-focused businesses on digital lead generation where trust, verification, and quality matter most)* [^inbeat][^99firms][^bookyourdata]  
-> *Public: Mid-sized businesses, Web3 startups, and performance-driven marketers actively investing in digital ads and lead gen, particularly in tech, SaaS, finance, and e-commerce sectors.*
-
-#### Serviceable Obtainable Market (SOM)
-
-The **Serviceable Obtainable Market (SOM)** is the realistic portion of the SAM that Adescentralized can capture in the short to medium term (e.g., 3–5 years), considering competition, adoption curves, and operational capacity.
-
-To calculate SOM, we consider:
-- **Early adopters**: Web3 companies, crypto projects, privacy-focused startups, and innovative marketing agencies.
-- **Users**: Internet users open to rewarded attention models (browser extension adopters).
-- **Publishers**: Independent websites and content creators seeking fairer revenue share.
-
-Given the nascent stage of blockchain-based advertising, capturing even **0.1% to 0.3% of the SAM ($100B–$120B)** would represent meaningful traction and validate the model.
-
-Therefore:
-> **SOM = $100 million to $360 million annually**  
-> *(Realistic 5-year revenue opportunity assuming gradual adoption among early-mover advertisers and strategic partnerships with Web3 communities and publisher networks)*
-
-This aligns with observable trends:
-- **83% of B2B marketers use social media** for lead generation, showing openness to digital-first strategies [^inbeat][^99firms].
-- **68% of B2B companies prioritize high-quality leads**, indicating demand for systems that verify real human engagement [^inbeat][^99firms].
-- With an average CPC of $1.35 on Facebook and rising CPMs on major platforms [^topdraw], there is a clear pain point around cost inefficiency—making Adescentralized’s low-fee, high-transparency model highly relevant.
-
-Adescentralized’s unique value proposition—transparency, reduced fraud, direct compensation, and user agency—positions it well to attract these forward-thinking advertisers once pilot programs demonstrate clear ROI.
-
+Initially, your company could focus on a niche like the influencer marketing market, which is a sub-niche of your SAM, projected to reach approximately $32.55 billion in 2025 [^5]. This market suffers from a lack of transparent metrics, and your proposal to use blockchain to ensure verified views and payments is a competitive differentiator. Your initial SOM could be a small percentage of this market that you can capture with a superior product and aggressive marketing.
 ---
 
 ## 5. SWOT Analysis
 
-| **Strengths** ✅ | **Weaknesses** ❌ |
-|------------------|------------------|
-| Built on low-cost, fast Stellar network | Limited brand recognition |
-| Solves real pain in emerging markets | Requires user education about crypto |
-| Uses Soroban for smart contracts (if applicable) | Dependency on third-party wallets |
 
-| **Opportunities** 🚀 | **Threats** ⚠️ |
-|---------------------|----------------|
-| Partner with mobile money providers (M-Pesa, etc.) | Regulatory crackdowns |
-| Integrate with CBDC pilots | Competition from Ripple, Visa B2B Connect |
-| Expand into payroll for gig workers | Incumbent network effects |
 
 ---
 
@@ -580,8 +518,15 @@ Ad Tech Must Address Its Market Flaws
 
 **Section 4.1 references**
 
-[^topdraw]: TopDraw. Online Advertising Costs In 2025. Available from: https://www.topdraw.com/insights/is-online-advertising-expensive/
-[^inbeat]: Inbeat. 60+ Lead Generation Statistics You Can't Afford to Ignore. Available from: https://inbeat.agency/blog/lead-generation-statistics
-[^99firms]: 99firms. Lead Generation Statistics 2025. Available from: https://99firms.com/research/lead-generation-statistics/
-[^bookyourdata]: Book Your Data. 73 Lead Generation Statistics and Trends for Success in 2025. Available from: https://www.bookyourdata.com/blog/lead-generation-statistics
-[^wisernotify]: WiserNotify. 61 New Lead Generation Statistics (2025 Edition). Available from: https://wisernotify.com/blog/lead-generation-stats/
+[^1]: TopDraw. Online Advertising Costs In 2025. Available from: https://www.topdraw.com/insights/is-online-advertising-expensive/
+[^2]: Business of Apps. Digital Advertising Statistics. Available from: https://www.businessofapps.com/data/digital-advertising-statistics/
+[^3]: WiserNotify. 61 New Lead Generation Statistics (2025 Edition). Available from: https://wisernotify.com/blog/lead-generation-stats/
+[^4]: Book Your Data. 73 Lead Generation Statistics and Trends for Success in 2025. Available from: https://www.bookyourdata.com/blog/lead-generation-statistics
+[^5]: Inbeat. 60+ Lead Generation Statistics You Can't Afford to Ignore. Available from: https://inbeat.agency/blog/lead-generation-statistics
+
+
+**Section 5.1 references**
+
+
+
+
