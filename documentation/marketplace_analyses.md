@@ -204,8 +204,65 @@ Adescentralized’s unique value proposition—transparency, reduced fraud, dire
 
 ## 6. Solution Overview
 
-### Canvas Value Proposition:
-> *We help [target users] achieve [goal] by enabling [solution] on the Stellar network.*
+### Value Proposition Canvas:
+
+<div align="center">
+
+*PICTURE 1 - Value Proposition Canvas*
+
+<img src="../assets_documentation/canvasValueProposition.png" width="100%"><br>
+
+
+<sup>Font: Material made by the authors, 2025</sup>
+
+ </div>
+
+**Pains**
+- High costs of digital advertising on major platforms
+- Lack of transparency and prevalence of ad fraud
+- Inefficiencies and excessive fees from intermediaries
+- Difficulty verifying genuine audience engagement
+
+**Customer Jobs**
+- Acquire quality leads and drive business growth
+- Manage and optimize advertising campaigns
+- Ensure ad spend delivers real engagement and ROI
+- Reward users and publishers fairly for participation
+
+**Gains**
+- Cost-efficient, transparent ad campaigns
+- Verifiable, tamper-proof ad metrics
+- Automated, fair payments to all parties
+- Increased trust and satisfaction for advertisers, users, and publishers
+
+---
+
+### Value Map
+
+**Products & Services**
+- Decentralized ad distribution platform (built on Stellar)
+- Web dashboard for advertisers
+- Browser extension for users
+- API integration for publishers
+- Blockchain-based verification and smart contracts
+
+**Gain Creators**
+- Lower fees and direct rewards for user attention
+- Real-time analytics and campaign performance tracking
+- Automated settlements—no intermediaries
+- Fast, global payments using Stellar’s infrastructure
+
+**Pain Relievers**
+- Tamper-proof, transparent ad metrics to combat fraud
+- Automated, transparent payments to users and publishers
+- Reduced operational costs and complexity
+- Verifiable audience engagement through blockchain
+
+---
+
+*This canvas shows how Adescentralized’s solution directly addresses the pains, jobs, and gains of its target customers, while delivering clear gain creators and pain relievers through its
+---
+
 
 ### Key Features:
 - Decentralized, non-custodial wallet for remittances
