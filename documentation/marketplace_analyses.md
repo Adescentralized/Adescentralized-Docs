@@ -1,13 +1,4 @@
-# 🌟 Hackathon Project Documentation  
-**Project Name**: [Insert Your Project Name]  
-**Built on**: Stellar Network  
-**Team Name**: [Your Team Name]  
-**Hackathon**: [Name of Hackathon]  
-**Date**: [Submission Date]
-
----
-
-## 🔗 Table of Contents
+# 🔗 Table of Contents
 
 1. [Executive Summary & Introduction](#1-executive-summary--introduction)
 2. [Problem Statement: The Pain Points](#2-problem-statement-the-pain-points)
@@ -299,7 +290,7 @@ Adoption of Privacy Technologies by Competitors: Other browsers may begin to int
 - Automated, fair payments to all parties
 - Increased trust and satisfaction for advertisers, users, and publishers
 
----
+---s
 
 ### Value Map
 
@@ -373,6 +364,7 @@ Audience Trust: By rewarding users and prioritizing privacy, your solution build
 | Low Transaction Fees              |      ✔️        |     ❌     |     ✔️        |
 | Direct Rewards to Users           |      ✔️        |     ❌     |     ✔️        |
 | Direct Rewards to Publishers      |      ✔️        |     ❌     |     ❌        |
+
 | Ad Personalization by Context     |      ✔️        |     ✔️     |     ✔️        |
 | Traditional User Tracking         |      ❌        |     ✔️     |     ❌        |
 | Opaque Intermediary Fees          |      ❌        |     ✔️     |     ❌        |
