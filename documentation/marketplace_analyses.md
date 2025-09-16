@@ -136,7 +136,91 @@ Initially, your company could focus on a niche like the influencer marketing mar
 
 ## 5. SWOT Analysis
 
+### Google Ads
 
+
+* **Strengths**
+
+Google Ads' strengths are the reason why the platform dominates the digital advertising market.
+
+Unmatched Reach and Scale: Google Ads is the world's largest advertising platform. Google holds over 90% of the global search market, ensuring massive reach through its search and display network, including YouTube and Gmail. [^1]
+
+User Intent: The main strength is the ability to target users based on their intent. This allows a company to appear exactly when a user is actively searching for a product or service. [^2]
+
+Data and Automation: Google Ads' artificial intelligence, especially in campaigns like Performance Max, enables automated bid optimization and audience targeting using the vast amount of data Google collects. [^3]
+
+
+* **Weaknesses**
+
+Despite being a giant, Google Ads has weaknesses that create the market pain points your solution aims to solve.
+
+High Costs: Google Ads' competitive auction model can lead to very high cost-per-click (CPC) and cost-per-acquisition (CPA) in saturated markets. This makes the platform less accessible for small businesses with limited budgets, which may incur high spending without guaranteed returns. [^4]
+
+Platform Complexity: Google Ads is known for its complexity and steep learning curve. The wide range of metrics, settings, and tools can be overwhelming for beginners. [^5]
+
+Lack of Transparency: Increasing automation turns the platform into a "black box." Advertisers have less control and insights about where their ads are being displayed and which keywords are generating results, creating distrust about spending efficiency. [^6]
+
+* **Opportunities**
+
+Google Ads' opportunities are tied to new technologies and market trends that could also be leveraged by your solution.
+
+Advances in Artificial Intelligence and Machine Learning: Google can further enhance its algorithms to understand user intent more deeply, offering even more relevant and profitable ads. AI can predict consumers' future needs, creating new targeting opportunities. [^7]
+
+Integration with Video Platforms (YouTube) and Content: Google has a huge opportunity to integrate its advertising more seamlessly and engagingly with YouTube, Google Discover, and other platforms, creating new monetization methods and ad formats.
+
+* **Threats**
+
+The threats to Google Ads are the risks the platform faces that could open space for new competitors like Adescentralized.
+
+Growth of Competitors: Platforms like Meta (Facebook and Instagram), TikTok, and Amazon Ads are growing and capturing a significant share of the advertising market, offering alternatives for social and e-commerce targeting that compete with Google. [^8]
+
+Ad-Blocker Adoption: Growing privacy concerns and the volume of intrusive ads have led millions of users to adopt ad-blocking software. This reduces Google's revenue and is one of the biggest threats to its business model. [^9]
+
+Regulation and Privacy Concerns: Governments worldwide are implementing data protection laws, such as GDPR in Europe, that limit user tracking. This could force Google to change its data collection and ad personalization practices, which is a direct threat to its targeting model. [^10]
+
+
+### Brave
+
+
+* **Strengths**
+
+Focus on Privacy and Security: Brave is built with privacy as a fundamental pillar, blocking ads and trackers by default. This attracts users concerned about their digital footprint.
+
+Speed and Performance: By blocking unnecessary content, Brave loads pages faster, providing a smoother browsing experience [^3].
+
+Brave Rewards and BAT: The unique rewards system, which uses the Basic Attention Token (BAT), offers users the option to earn BAT for viewing privacy-preserving ads, creating an alternative revenue model that values the user [^3].
+
+Native Integration: Brave has features like IPFS (InterPlanetary File System) and Tor integrated into the browser, providing advanced privacy and decentralization tools for users without the need for external extensions [^3].
+
+* **Weaknesses**
+
+Small Market Share: Despite its growth, Brave's user base is still considerably smaller compared to giants like Chrome and Firefox [^2].
+
+Dependence on BAT Adoption: The success of the Brave Rewards system depends on the adoption and valuation of the BAT token, which can be volatile and subject to cryptocurrency market fluctuations [^1].
+
+Possible Resistance from Advertisers: Brave's ad-blocking model may face resistance from advertisers and publishers who rely on advertising revenue to sustain their businesses.
+
+Learning Curve: Some features, such as the cryptocurrency wallet and rewards system, may be complex for users less familiar with the technology and the world of cryptocurrencies.
+
+* **Opportunities**
+
+Growing Concern About Online Privacy: Recent increases in data breach cases and global discussion about privacy may drive more users to migrate to browsers like Brave that prioritize security.
+
+Expansion into New Markets: Brave can focus on emerging markets where privacy awareness is high and adoption of innovative technologies is faster.
+
+Strategic Partnerships: Brave can form partnerships with companies and projects focused on technology and privacy to expand its ecosystem.
+
+Development of New Features: Brave can continue to innovate by adding features that further differentiate it from competitors, such as a native VPN or advanced security tools.
+
+* **Threats**
+
+Competition from Market Giants: Google Chrome, Mozilla Firefox, Microsoft Edge and other browsers with massive user bases and solid features remain a competitive threat.
+
+Changes in Advertising Policies: Technology giants may implement new advertising policies that restrict Brave's business model.
+
+Government Regulation: Regulation around cryptocurrencies may impact the viability and operation of Brave's rewards system.
+
+Adoption of Privacy Technologies by Competitors: Other browsers may begin to integrate privacy and ad-blocking features, diminishing Brave's competitive advantage.
 
 ---
 
@@ -526,6 +610,32 @@ Ad Tech Must Address Its Market Flaws
 
 
 **Section 5.1 references**
+
+* Google ads
+[^1]https://www.statista.com/statistics/216573/google-global-market-share-of-search-traffic/
+
+[^2]https://www.wordstream.com/blog/intent-data-google-ads
+
+[^3]https://support.google.com/google-ads/answer/10724649?hl=pt-PT
+
+[^4]https://www.webfx.com/ppc/average-google-ads-cpc/
+
+[^5]https://www.semrush.com/blog/google-ads-for-beginners-ultimate-guide/
+
+[^6]https://searchengineland.com/google-ads-black-box-why-is-this-happening-378377
+
+[^7]https://blog.google/products/ads-commerce/5-ways-ai-is-transforming-google-ads/
+
+[^8]https://www.insiderintelligence.com/content/amazon-s-advertising-business-growing-faster-than-google-s-meta-s-and-apple-s
+
+[^9]https://iabuk.com/ad-blocking-study-2024
+
+[^10]https://support.google.com/google-ads/answer/9012674?hl=pt-PT
+
+* Brave 
+[^1]: Brave. "Brave Transparency Report". Available at: https://brave.com/transparency/
+[^2]: "Brave Browser Review". Forbes. Available at: https://www.forbes.com/advisor/business/software/brave-browser-review/
+[^3]: Brave. "Features and Specifications". Available at: https://brave.com/features/
 
 
 
