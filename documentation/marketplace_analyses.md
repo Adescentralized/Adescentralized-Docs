@@ -16,8 +16,8 @@
    - [4.1 TAM, SAM, SOM Analysis](#41-tam-sam-som-analysis)
 5. [SWOT Analysis](#5-swot-analysis)
 6. [Solution Overview](#6-solution-overview)
-    - [6.1 MVP](#71-minimal-viable-product)
-    - [6.2 Differences and Advantages](#72-differences-and-advantages)
+    - [6.1 MVP](#61-minimal-viable-product)
+    - [6.2 Differences and Advantages](#62-differences-and-advantages)
 7. [How It Works: Technical Architecture & MVP](#7-how-it-works-technical-architecture) 
 8. [Why Stellar?](#8-why-stellar)
 9. [Business Model & Monetization](#9-business-model--monetization)
@@ -362,6 +362,24 @@ Attracting New Advertisers: By offering a more accessible and transparent model,
 
 Audience Trust: By rewarding users and prioritizing privacy, your solution builds trust with the audience. This can lead to greater engagement with ads and a more positive experience for everyone.
 
+| Feature / Criteria                | Adescentralized | Google Ads | Brave Browser |
+|-----------------------------------|:--------------:|:----------:|:-------------:|
+| Decentralized Platform            |      ✔️        |     ❌     |     ✔️        |
+| Blockchain-based Payments         |      ✔️        |     ❌     |     ✔️        |
+| Real-time Micro-rewards           |      ✔️        |     ❌     |     ✔️        |
+| Privacy by Design (No Tracking)   |      ✔️        |     ❌     |     ✔️        |
+| Transparent Ad Metrics            |      ✔️        |     ❌     |     ✔️        |
+| Automated Smart Contracts         |      ✔️        |     ❌     |     ❌        |
+| Low Transaction Fees              |      ✔️        |     ❌     |     ✔️        |
+| Direct Rewards to Users           |      ✔️        |     ❌     |     ✔️        |
+| Direct Rewards to Publishers      |      ✔️        |     ❌     |     ❌        |
+| Ad Personalization by Context     |      ✔️        |     ✔️     |     ✔️        |
+| Traditional User Tracking         |      ❌        |     ✔️     |     ❌        |
+| Opaque Intermediary Fees          |      ❌        |     ✔️     |     ❌        |
+| Open Source                       |      ✔️        |     ❌     |     ✔️        |
+
+*✔️ = Feature present / ❌ = Feature
+
 ---
 
 ## 7. How It Works: Technical Architecture
@@ -443,16 +461,33 @@ With this model, Adescentralized positions itself as a platform that not only so
 
 ## 10. Roadmap & Future Vision
 
-| Quarter | Milestone |
-|--------|-----------|
-| Q1 | MVP launch on Stellar Testnet |
-| Q2 | Pilot in Nairobi with 500 users |
-| Q3 | Soroban contract for recurring payments |
-| Q4 | Fiat on/off ramp integration |
-| 2025 | Expand to 3 new countries |
+### Future Vision and Technological Innovations
 
-**Long-term Vision**:  
-*Become the default payment rail for inclusive finance across Africa, LATAM, and Southeast Asia.*
+Adescentralized's future vision goes beyond the current model, incorporating advanced technologies to optimize scalability, security, and pricing. The goal is to create a platform that not only solves existing pain points but also anticipates market needs, offering a smarter and more efficient advertising system.
+
+**Massive Scalability**
+
+High scalability is the foundation of the entire project and a natural consequence of using the Stellar network. Adescentralized's business model depends on processing millions of micropayments per ad view, and Stellar was chosen for its ability to handle thousands of transactions per second at nearly zero cost. The vision is for the platform to grow to serve a global audience without encountering network bottlenecks, ensuring that transaction time and fees remain ultra-low regardless of traffic volume.
+
+**Double Bloom Filter for Fraud Detection**
+
+Advertising fraud is a billion-dollar problem, and Adescentralized will employ an innovative approach to combat it. The Double Bloom Filter is a probabilistic data structure that allows for extremely fast verification of whether an element exists in a set with memory efficiency.
+
+**Application in Adescentralized:**
+
+Rather than storing the viewing history of each user (which would violate privacy principles), the platform will use a Double Bloom Filter for fraud detection. It will be applied to register ad views in real time. When a view is reported, the system will consult the filter to quickly verify whether that same user (identified by their encrypted ID) has already viewed the same ad within a short period. This enables the identification and prevention of duplicate or fraudulent views in real time, without the need to store users' personal data. The "double" structure of the filter facilitates the removal of expired IDs, ensuring the system remains dynamic and efficient.
+
+**VWAP (Volume-Weighted Average Price) for Smart Pricing**
+
+Ad pricing in Adescentralized will be based on VWAP (Volume-Weighted Average Price), a concept common in financial markets. VWAP calculates the average price of an asset over a period, weighted by trading volume.
+
+**Application in Adescentralized:**
+
+Instead of a fixed cost-per-click (CPC) or cost-per-thousand impressions (CPM), Adescentralized will adopt a dynamic and fairer pricing model. VWAP will be used to calculate the average value of a view for an ad category. For example, the VWAP for "technology" ads would be determined by the average of all advertisers' investments in that segment. This allows the platform to establish a fair market-based price for each type of ad.
+
+**Individual Calculation:**
+
+The major innovation is that this base price can be adjusted for each individual based on relevance. Using the "labels" (tags) system, the VWAP of an ad will be modified for that specific view. If an ad with the "travel" tag is displayed on a site with the "adventure travel" tag, the value paid by the advertiser for that view may exceed the base VWAP of the category. The calculation will be a function of the match between the tags, ensuring that the advertiser pays a premium value for relevance and that the user and site receive a reward for this high-quality interaction.
 
 ---
 
