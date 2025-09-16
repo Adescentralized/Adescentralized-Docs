@@ -420,15 +420,24 @@ The combination of near-zero fees and lightning-fast transactions makes Adescent
 
 ## 9. Business Model & Monetization
 
+Adescentralized's monetization model has been designed to be fundamentally more transparent and fair than the complex, opaque fee structures that dominate the advertising market. It directly addresses the pain point of intermediary fees, which can absorb up to 35% of advertising investment, offering a much more efficient alternative.
 
+Here's the proposal:
 
-| Revenue Stream | Description | % of Revenue |
-|---------------|-------------|--------------|
-| Transaction Fee | 0.5% on fiat off-ramp | 70% |
-| Premium Features | Faster support, higher limits | 10% |
-| B2B API Access | Charge NGOs or employers using our rails | 20% |
+Platform Fee (10%): Adescentralized will charge a fixed 10% fee on each amount deposited by advertising businesses. This fee covers operational costs, ongoing development, and the technological infrastructure needed to maintain the ecosystem.
 
-> *Keep fees below 1% to compete with Wise, far below Western Union (5–10%).
+Ecosystem Value (90%): The remaining 90% will be entirely directed to the ecosystem, distributed transparently and automatically through smart contracts.
+
+The clarity about how this value is distributed per view is what differentiates your solution.
+
+Breaking Down the Per-View Value:
+When an ad is displayed and a view is validated, a small fraction of the total value (which we call the Per-View Value) is processed. This value is distributed as follows:
+
+For the Hosting Site (60%): Of the Per-View Value, the site hosting the ad will receive 60% of the amount. This higher percentage incentivizes content creators and publishers to join your network, as they are primarily responsible for generating the traffic and context where ads are displayed.
+
+For the User (40%): Of the same Per-View Value, the user who activated the extension and viewed the ad will receive 40%. This direct and tangible reward is the key differentiator of your solution, demonstrating the value of their attention and motivating adoption of the extension.
+
+With this model, Adescentralized positions itself as a platform that not only solves the pain of high costs and fraud but also redistributes value fairly. Advertisers pay less in fees while publishers and users earn more, creating a virtuous cycle of trust and efficiency.
 
 ---
 
