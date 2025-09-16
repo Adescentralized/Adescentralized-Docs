@@ -16,12 +16,14 @@
    - [4.1 TAM, SAM, SOM Analysis](#41-tam-sam-som-analysis)
 5. [SWOT Analysis](#5-swot-analysis)
 6. [Solution Overview](#6-solution-overview)
-7. [How It Works: Technical Architecture & MVP](#7-how-it-works-technical-architecture)
+    - [6.1 MVP](#71-minimal-viable-product)
+    - [6.2 Differences and Advantages](#72-differences-and-advantages)
+7. [How It Works: Technical Architecture & MVP](#7-how-it-works-technical-architecture) 
 8. [Why Stellar?](#8-why-stellar)
 9. [Business Model & Monetization](#9-business-model--monetization)
 10. [Roadmap & Future Vision](#10-roadmap--future-vision)
 11. [Team & Roles](#11-team--roles)
-12. [Appendices & References](#12-appendices--references)
+12. [References](#12-references)
 
 ---
 
@@ -36,9 +38,9 @@ Our solution consists of three interconnected components, all powered by blockch
 
 Businesses use our website to easily and intuitively manage their advertising campaigns. A comprehensive dashboard allows them to set budgets and monitor performance in real time, with access to detailed metrics such as views, engagement, and lead generation. Every ad view and user interaction is securely recorded on the blockchain, complete with a verification hash and an encrypted user ID, ensuring complete data integrity.
 
-For end users, our browser extension serves as the gateway. Once activated, users can choose to view ads and, in return, are financially rewarded for each impression. We use XLM (Stellar Lumens) from the Stellar network to enable fast, secure transactions with minimal fees—delivering on our promise of real, tangible rewards for users’ attention.
+For end users, our browser extension serves as the gateway. Once activated, users can choose to view ads and, in return, are financially rewarded for each impression. We use XLM (Stellar Lumens) from the Stellar network to enable fast, secure transactions with minimal fees—delivering on our promise of real, tangible rewards for users' attention.
 
-Additionally, partner websites integrate our solution to display ads and automatically receive a share of the advertiser’s investment through smart contracts. This ensures a fully automated payment process without intermediaries.
+Additionally, partner websites integrate our solution to display ads and automatically receive a share of the advertiser's investment through smart contracts. This ensures a fully automated payment process without intermediaries.
 
 Stellar forms the foundation of our platform. Its global payment infrastructure—capable of processing transactions in seconds at fractions of a cent—is the only network robust enough to support our large-scale, per-impression reward model.
 
@@ -82,6 +84,8 @@ These findings confirm that the problems Adescentralized seeks to address—high
 ---
 
 ## 3. Target Audience & User Personas
+
+
 
 
 ### Persona 1
@@ -328,17 +332,40 @@ Adoption of Privacy Technologies by Competitors: Other browsers may begin to int
 *This canvas shows how Adescentralized’s solution directly addresses the pains, jobs, and gains of its target customers, while delivering clear gain creators and pain relievers through its
 ---
 
+### 6.1. Minimum Viable Product
 
-### Key Features:
-- Decentralized, non-custodial wallet for remittances
-- Instant FX conversion using Stellar DEX
-- Gasless transactions via sponsorship model
-- Identity layer for compliance (DID + lightweight KYC)
+----- WARN!!!
 
-### Key Innovations:
-- First app to use Soroban for automated payout triggers
-- Embedded financial education via gamification
-- Offline-first mobile experience for low-connectivity areas
+
+### 6.2. Differences and Advantages
+
+1. **Privacy by Design: Goodbye to Data Tracking**
+One of the greatest benefits of your application is that it eliminates the need to track users. Unlike traditional advertising platforms that build detailed profiles of browsing history, personal interests, and location, Adescentralized focuses on context.
+
+This means no personal data is stored. Instead of following users with ads based on their history, your solution uses the theme of the website they're visiting. Each site has a "label" (tag) that describes its category, such as "travel" or "technology." Advertisers, in turn, create ads with the same tags. The result is an intelligent system where ad relevance is guaranteed by context, not by compromising privacy. With Adescentralized, users see ads that make sense with the content they're consuming, without sacrificing their privacy. For businesses, this means their ads reach an audience genuinely interested in the topic, increasing campaign effectiveness.
+
+2. **Simplicity and Security with Blockchain**
+Your solution offers a simplified interface for businesses, but behind the simplicity lies blockchain security. By using the Stellar network, Adescentralized ensures that every payment transaction, no matter how small, is immutable and verifiable. This is the key to the transparency missing in centralized platforms.
+
+The use of smart contracts and Stellar's SDK automates the entire payment process. When an ad view is confirmed, the smart contract activates, ensuring the value is distributed fairly and instantly. This process eliminates opaque intermediaries and the need to trust a single entity. The result is a secure, transparent, and auditable system for anyone.
+
+3. **Real Cash Back for All Participants**
+Your "cash back" proposal is one of the most innovative in the advertising market and extends to all participants.
+
+For the User: The user is directly rewarded for their attention. With the browser extension, they receive a portion of the advertiser's investment in their digital wallet, transforming ad views into a real source of income.
+
+For the Hosting Site: The site displaying the ad isn't at the mercy of fees and delayed payments from major networks. It also receives its share of the advertiser's investment directly and automatically, creating a new and fairer monetization method for content creators and publishers.
+
+For the Advertiser: The advertiser also receives a type of "cash back." In a market where costs are high and views aren't always genuine, your solution ensures they only pay for verified, authentic interactions. This optimizes their budget and guarantees a much clearer and more efficient return on investment (ROI).
+
+4. **Additional Benefits: Efficiency, Low Cost, and Mass Adoption**
+Beyond the main benefits, your solution brings other important advantages:
+
+Financial Efficiency: The Stellar network enables transactions in seconds with nearly zero costs. This makes the per-view micropayment model feasible, which would be impossible with most blockchains or traditional payment methods.
+
+Attracting New Advertisers: By offering a more accessible and transparent model, Adescentralized can attract small and medium businesses that currently cannot compete on major platforms.
+
+Audience Trust: By rewarding users and prioritizing privacy, your solution builds trust with the audience. This can lead to greater engagement with ads and a more positive experience for everyone.
 
 ---
 
@@ -372,13 +399,33 @@ Compliance Layer (KYC API, Chainalysis if needed)
 **Sustainability**: Carbon-negative network  
 **Soroban**: Rust-based smart contracts with predictable gas  
 **Interoperability**: Built-in DEX, anchors, path payments  
-**Mission Alignment**: Financial inclusion focus  
+**Mission Alignment**: Financial inclusion focus
+
+Unbeatable Cost Efficiency with Stellar
+Unlike traditional advertising platforms burdened by high transaction fees, Adescentralized leverages Stellar's network to deliver unprecedented cost savings. While conventional payment processors charge 2-3% per transaction and traditional ad tech middlemen take up to 35% of ad spend, Stellar processes transactions with fees as low as $0.00001 - making microtransactions economically viable for the first time in digital advertising history.
+
+This translates directly into tangible benefits:
+
+For businesses: 20-30% more advertising value for the same budget, as minimal transaction costs mean more of your investment reaches actual human viewers
+For publishers: Keeping 90%+ of revenue instead of the typical 65% after middlemen take their cut
+For users: Real financial value from micro-rewards that would be impossible with traditional payment systems
+Lightning-Fast Transaction Processing
+Where other blockchain solutions struggle with slow confirmation times (Bitcoin: 10+ minutes) or high gas fees (Ethereum: often $1+ per transaction), Stellar delivers final settlement in just 3-5 seconds - fast enough to support our real-time per-impression reward model at scale.
+
+This speed enables:
+
+Immediate validation of ad views
+Instant micro-rewards that users see accumulating in real time
+A seamless experience where payments happen as quickly as impressions are verified
+The combination of near-zero fees and lightning-fast transactions makes Adescentralized not just a more ethical advertising solution, but a fundamentally more efficient economic model - where virtually 100% of the advertiser's investment flows directly to the value creators: the users who view ads and the publishers who host them.
 
 > *"Stellar isn’t just fast — it’s purpose-built for equitable access to finance."*
 
 ---
 
 ## 9. Business Model & Monetization
+
+
 
 | Revenue Stream | Description | % of Revenue |
 |---------------|-------------|--------------|
@@ -418,27 +465,8 @@ Compliance Layer (KYC API, Chainalysis if needed)
 
 ---
 
-## 12. Appendices & References
+## 12. References
 
-### A. Glossary
-- **XLM**: Stellar’s native token
-- **Anchor**: Entity that issues assets (e.g., USDt) on Stellar
-- **Path Payment**: Auto-convert currencies during transfer
-- **Soroban**: Stellar’s smart contract platform (WASM, Rust)
-
-### B. Data Sources
-- [World Bank - Migration and Remittances](https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data)
-- [Stellar Developer Portal](https://developers.stellar.org)
-- [Statista - Digital Payments](https://www.statista.com)
-- [IMF Financial Inclusion Reports](https://www.imf.org)
-
-### C. Tools Used
-- **GitHub** – Code repo
-- **Figma** – UI/UX Design
-- **Notion** – Project Management
-- **Postman** – API Testing
-
----
 
 **Section 2 references**
 
