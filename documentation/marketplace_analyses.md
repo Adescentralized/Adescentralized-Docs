@@ -48,11 +48,6 @@ At every stage, we act as guardians of transparency. We manage the invested capi
 
 Adescentralized proves that advertising can be decentralized, beneficial, and transparent—for everyone.
 
-
-
-> **Example**:  
-> *RemitSwift is a decentralized remittance platform built on the Stellar network that enables near-instant, low-cost cross-border payments for unbanked migrant workers. By leveraging Stellar’s fast settlement and low fees, we reduce transaction costs by up to 90% compared to traditional remittance services.*
-
 ---
 
 ## 2. Problem Statement: The Pain Points
